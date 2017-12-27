@@ -97,7 +97,7 @@ You don't need to build the front-end. But, as you plan/design the backend, it's
         http://localhost/api/v1/playlist
 
 ## Delivery
-Put your project on a Github repo
+Create a GitHub repo and post your project there.
 
 ## Resources:
 - [YouTube API](https://developers.google.com/youtube/v3/docs/)
