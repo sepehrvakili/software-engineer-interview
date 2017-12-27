@@ -11,7 +11,7 @@ Try these without using a book or Google. If you need to, then use resources and
 - How does the JavaScript event loop works?
 - What is your understanding and experience with object-oriented programming (OOP)?
 - What is your understanding and experience with functional programming?
-- What does it mean “non-blocking” in Node.js?
+- What does “non-blocking” mean in Node.js?
 
 
 Consider the following JavaScript code:
