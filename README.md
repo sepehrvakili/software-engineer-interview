@@ -99,12 +99,6 @@ You don't need to build the front-end. But, as you plan/design the backend, it's
 ## Delivery
 Put your project on a Github repo
 
-When you apply to engineering jobs, they might give you a project.
-Though they won't be this big. I wanted to give you something sizable 
-because it would be a good experience for you and gives you a chance
-to learn new things and/or demonstrate what you already know.
-
-
 ## Resources:
 - [YouTube API](https://developers.google.com/youtube/v3/docs/)
 - [Spotify API](https://developer.spotify.com/web-api/endpoint-reference/)
