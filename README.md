@@ -1,4 +1,4 @@
-# software-engineer-interview
+# software-engineer-pratice
 A series of questions and a project to gage an engineer's skillset
 
 # Part 1 - General questions
